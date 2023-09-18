@@ -6,4 +6,4 @@ gem "appraisal"
 gem "sqlite3", "~> 1.3.6"
 gem "activerecord", "~> 4.2.2"
 
-gemspec :path => "../"
+gemspec path: "../"
